@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/svenanders/ReactJSBlueprints_Chapter7"
+  },
+  "author": "Sven Anders Robbestad <robbestad@gmail.com> (https://www.robbestad.com)",
   "scripts": {
     "test": "./node_modules/.bin/babel-tape-runner source/**/*-test.js"
   },
-  "author": "Sven Anders Robbestad <robbestad@gmail.com> (http://svenardo.com)",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "6.2.3",
